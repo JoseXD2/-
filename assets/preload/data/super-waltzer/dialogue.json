@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.035,
+			"portrait": "bfclown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skdee bep!"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "clownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow you actually did great!"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bfclown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep?"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "clownsodrugs",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Great on a preschool level!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tfyousay",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"speed": 0.02,
+			"portrait": "clownso",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "KYAHAHAHHAHAHHAAH!"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "clownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pay up losers."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dahonkies",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Didn't we win though...?"
+		},
+		{
+			"speed": 0.25,
+			"portrait": "clownsooverdose",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.075,
+			"portrait": "clownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, we have no other choice..."
+		},
+		{
+			"speed": 0.02,
+			"portrait": "clownso",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "BUT TO HAVE A REMATCH!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfclown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap!"
+		},
+		{
+			"speed": 0.09,
+			"portrait": "honkersshocked",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We're gonna be here a while..."
+		}
+	]
+}

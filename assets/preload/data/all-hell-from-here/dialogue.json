@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Kyaha! Welcome to the homecrib boiiiiii!!!",
+			"boxState": "normal",
+			"portrait": "beegclown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Uh, for legal reasons I have to state that this is not an assault and I'm only forcing money out of you by any means necessary.",
+			"boxState": "normal",
+			"portrait": "bbnervous",
+			"speed": 0.04,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "I don't need the cops on me..",
+			"boxState": "normal",
+			"portrait": "bbnervous",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "again.",
+			"boxState": "normal",
+			"portrait": "bbnervous",
+			"speed": 0.02,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "But.. final song, less gooo!",
+			"boxState": "normal",
+			"portrait": "beegclown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Any last words before you delete my mod and forget about my existence leaving me in a void of pure agony?",
+			"boxState": "normal",
+			"portrait": "beegclown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": ".........................",
+			"boxState": "normal",
+			"portrait": "bfwhat",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "I know you can canonically speak. Say\\nsomething!",
+			"boxState": "normal",
+			"portrait": "bbnervous",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Despite the name clownso, you clearly resemble\\nmore of a jester than a clown.",
+			"boxState": "normal",
+			"portrait": "bfclown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": ".....",
+			"boxState": "normal",
+			"portrait": "beegclown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Que mamabicho tu eres pendejo.",
+			"boxState": "normal",
+			"portrait": "beegclown",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

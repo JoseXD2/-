@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pastscrunkly.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down 1" x="0" y="0" width="1191" height="1500"/>
+	<SubTexture name="down 2" x="0" y="0" width="1191" height="1500"/>
+	<SubTexture name="down 3" x="1191" y="0" width="1191" height="1500"/>
+	<SubTexture name="idle 1" x="2382" y="0" width="1191" height="1500"/>
+	<SubTexture name="idle 10" x="5955" y="0" width="1191" height="1500"/>
+	<SubTexture name="idle 11" x="5955" y="0" width="1191" height="1500"/>
+	<SubTexture name="idle 12" x="5955" y="0" width="1191" height="1500"/>
+	<SubTexture name="idle 2" x="2382" y="0" width="1191" height="1500"/>
+	<SubTexture name="idle 3" x="3573" y="0" width="1191" height="1500"/>
+	<SubTexture name="idle 4" x="3573" y="0" width="1191" height="1500"/>
+	<SubTexture name="idle 5" x="4764" y="0" width="1191" height="1500"/>
+	<SubTexture name="idle 6" x="4764" y="0" width="1191" height="1500"/>
+	<SubTexture name="idle 7" x="5955" y="0" width="1191" height="1500"/>
+	<SubTexture name="idle 8" x="5955" y="0" width="1191" height="1500"/>
+	<SubTexture name="idle 9" x="5955" y="0" width="1191" height="1500"/>
+	<SubTexture name="left 1" x="0" y="1500" width="1191" height="1500"/>
+	<SubTexture name="left 2" x="0" y="1500" width="1191" height="1500"/>
+	<SubTexture name="left 3" x="1191" y="1500" width="1191" height="1500"/>
+	<SubTexture name="left 4" x="1191" y="1500" width="1191" height="1500"/>
+	<SubTexture name="right 1" x="2382" y="1500" width="1191" height="1500"/>
+	<SubTexture name="right 2" x="2382" y="1500" width="1191" height="1500"/>
+	<SubTexture name="right 3" x="3573" y="1500" width="1191" height="1500"/>
+	<SubTexture name="right 4" x="3573" y="1500" width="1191" height="1500"/>
+	<SubTexture name="up 1" x="4764" y="1500" width="1191" height="1500"/>
+	<SubTexture name="up 2" x="4764" y="1500" width="1191" height="1500"/>
+	<SubTexture name="up 3" x="5955" y="1500" width="1191" height="1500"/>
+	<SubTexture name="up 4" x="5955" y="1500" width="1191" height="1500"/>
+</TextureAtlas>

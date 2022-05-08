@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="carnivalsong2.png"><SubTexture name="carnivalsong20000" x="0" y="0" width="2276" height="1591" frameX="0" frameY="0" frameWidth="2276" frameHeight="1591" />
+<SubTexture name="carnivalsong20001" x="2276" y="0" width="2276" height="1591" frameX="0" frameY="0" frameWidth="2276" frameHeight="1591" />
+<SubTexture name="carnivalsong20002" x="4552" y="0" width="2276" height="1591" frameX="0" frameY="0" frameWidth="2276" frameHeight="1591" />
+</TextureAtlas>

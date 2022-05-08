@@ -1,0 +1,269 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "clownsosappendix",
+		"player1": "ZAMNbf",
+		"player2": "ZAMNclownso",
+		"player3": null,
+		"events": [
+			[
+				20357.1428571429,
+				[
+					[
+						"Flash_Event",
+						"2",
+						"800080"
+					],
+					[
+						"Image Flash",
+						"tentacleseffect",
+						"7"
+					]
+				]
+			],
+			[
+				41142.8571428572,
+				[
+					[
+						"CameraZoomies",
+						"0.4",
+						"5"
+					]
+				]
+			],
+			[
+				42857.1428571429,
+				[
+					[
+						"CameraZoomies",
+						"0.3",
+						"5"
+					]
+				]
+			],
+			[
+				44571.4285714286,
+				[
+					[
+						"CameraZoomies",
+						"0.2",
+						"5"
+					]
+				]
+			],
+			[
+				46285.7142857143,
+				[
+					[
+						"CameraZoomies",
+						"0.1",
+						"5"
+					]
+				]
+			],
+			[
+				47785.7142857143,
+				[
+					[
+						"CameraZoomies",
+						"1.0",
+						"3"
+					]
+				]
+			],
+			[
+				47892.8571428572,
+				[
+					[
+						"Flash_Event",
+						"1",
+						"800080"
+					]
+				]
+			],
+			[
+				48321.4285714286,
+				[
+					[
+						"CameraZoomies",
+						"0.7",
+						"30"
+					]
+				]
+			],
+			[
+				51321.4285714286,
+				[
+					[
+						"Image Flash",
+						"tentacleseffect",
+						"2"
+					]
+				]
+			],
+			[
+				56035.7142857143,
+				[
+					[
+						"Must Press Swap",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58285.7142857143,
+				[
+					[
+						"Must Press Swap",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59571.4285714286,
+				[
+					[
+						"Must Press Swap",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61607.1428571429,
+				[
+					[
+						"Flash_Event",
+						"1",
+						"800080"
+					]
+				]
+			],
+			[
+				61714.2857142858,
+				[
+					[
+						"Must Press Swap",
+						"",
+						""
+					],
+					[
+						"CameraZoomies",
+						"0.5",
+						"1"
+					]
+				]
+			],
+			[
+				81964.2857142857,
+				[
+					[
+						"Flash_Event",
+						"1",
+						"800080"
+					]
+				]
+			],
+			[
+				95892.8571428571,
+				[
+					[
+						"Flash_Event",
+						"1",
+						"800080"
+					]
+				]
+			],
+			[
+				109392.857142857,
+				[
+					[
+						"Flash_Event",
+						"5",
+						"000000"
+					],
+					[
+						"CameraZoomies",
+						"0.4",
+						"100"
+					]
+				]
+			],
+			[
+				109500,
+				[
+					[
+						"MoveArrow",
+						"0",
+						"1000, 1000, 0, 0, 100"
+					],
+					[
+						"MoveArrow",
+						"1",
+						"1000, 1000, 0, 0, 100"
+					],
+					[
+						"MoveArrow",
+						"2",
+						"1000, 1000, 0, 0, 100"
+					],
+					[
+						"MoveArrow",
+						"3",
+						"1000, 1000, 0, 0, 100"
+					],
+					[
+						"MoveArrow",
+						"4",
+						"-1000, -1000, 0, 0, 100"
+					],
+					[
+						"MoveArrow",
+						"5",
+						"-1000, -1000, 0, 0, 100"
+					],
+					[
+						"MoveArrow",
+						"6",
+						"-1000, -1000, 0, 0, 100"
+					],
+					[
+						"MoveArrow",
+						"7",
+						"-1000, -1000, 0, 0, 100"
+					]
+				]
+			],
+			[
+				109607.142857143,
+				[
+					[
+						"Change Character",
+						"1",
+						"invisclownso"
+					],
+					[
+						"endsongbgchange",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"BF",
+						"invisbf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfBUTNOTREAL",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "all-hell-from-here"
+	}
+}

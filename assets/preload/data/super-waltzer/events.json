@@ -1,0 +1,64 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "carnivalsong2",
+		"player1": "bf",
+		"player2": "clownso",
+		"player3": null,
+		"events": [
+			[
+				60923.0769230769,
+				[
+					[
+						"Flash_Event",
+						"1",
+						"FFFFFF"
+					],
+					[
+						"Change Character",
+						"1",
+						"clownso"
+					]
+				]
+			],
+			[
+				61384.6153846154,
+				[
+					[
+						"Image Flash",
+						"ready",
+						"1"
+					]
+				]
+			],
+			[
+				61846.1538461538,
+				[
+					[
+						"Image Flash",
+						"set",
+						"1"
+					]
+				]
+			],
+			[
+				62307.6923076923,
+				[
+					[
+						"Image Flash",
+						"go",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "super-waltzer"
+	}
+}

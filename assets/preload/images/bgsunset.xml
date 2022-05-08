@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgsunset.png"><SubTexture name="bgsunset idle0000" x="0" y="0" width="3150" height="1801" frameX="0" frameY="-399" frameWidth="3150" frameHeight="2200" />
+<SubTexture name="bgsunset idle0001" x="3150" y="0" width="3150" height="1801" frameX="0" frameY="-399" frameWidth="3150" frameHeight="2200" />
+<SubTexture name="bgsunset idle0002" x="0" y="1801" width="3150" height="1801" frameX="0" frameY="-399" frameWidth="3150" frameHeight="2200" />
+</TextureAtlas>

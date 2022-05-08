@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "blueballswha",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownsodrugs",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Kyahahahahah! Well, well, well, if it isn't good ol' Boyfriend.xml..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blueballsyeah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Clownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well of course I know you! It's like this whole WORLD REVOLVES AROUND YOU!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The name's Clownso! What brings you to my oh so lovely fair?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blueballsyeah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skabopp beee"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownsohappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, a date with your girlfriend? Of course! You even brought the necessary stuff!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The girl, the boy....."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "clownsodrugs",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And your never ending hunger for temporary amusement to forget the meaningless cycle of life!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blueballsyeah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Babababababap."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Rap battles?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sounds cringe."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's make it entertaining!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownsohappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If I win, I get your credit card and the wacky numbers on the back!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you win, I'll give you... uh..-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownsohappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A free ride on the unofficially licensed Clownso Carousel!"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "gfblep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, um... we kind of need our credit car-"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "clownsodrugs",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GREAT! IT'S A DEAL!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blueballsyeah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownsohappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright my lil clownlings, it's time to get \\ndressed!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "-even though you already look the part..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "honkersupset",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We're not gonna put on a cl-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "honkersshocked",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, never mind then......"
+		}
+	]
+}

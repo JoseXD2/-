@@ -1,0 +1,57 @@
+{
+	"storyName": "Clownso's Aftershow",
+	"hideFreeplay": false,
+	"weekBackground": "stageclownso",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"menuclown",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"merry-go-clown",
+			"clownso",
+			[
+				186,
+				73,
+				253
+			]
+		],
+		[
+			"super-waltzer",
+			"clownso",
+			[
+				186,
+				73,
+				253
+			]
+		],
+		[
+			"clownsickle",
+			"clownsoneon",
+			[
+				146,
+				0,
+				215
+			]
+		],
+		[
+			"all hell from here",
+			"ZAMNclownso",
+			[
+				146,
+				0,
+				175
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Clownso's Aftershow"
+}

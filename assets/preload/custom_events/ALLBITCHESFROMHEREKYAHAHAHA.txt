@@ -1,0 +1,4 @@
+no values needed
+
+Value 1: put nothing
+Value 2: this hides the notes and hud for all hell

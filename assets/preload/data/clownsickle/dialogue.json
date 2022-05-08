@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bfclown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep babopp!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah yeah, you might be good at rapping.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownsohappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But rapping wont get you any bitches."
+		},
+		{
+			"speed": 0.44,
+			"portrait": "dahonkies",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfclown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep Beep!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dahonkies",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We should get out of here bf, it's getting a little late..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clownsohappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Counter argument, give me your money."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "honkersupset",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nah, I think we are just gonna leave."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "clownsodrugs",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh but trust me, the fun is just beginning! KYAHAHAHAHA!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nclownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "After all it's just a game..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nclownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A silly little program you'll get rid of and forget once you're done.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nclownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So, let's have some fun while im still here!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "honkersshocked",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I just wanted a normal date man..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nclownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Isn't this already normal for you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Nclownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Listen up nerds, I'm gonna beat you, and then get your money."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "nclownsococky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And then I'm going to buy a monkey with it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "honkersupset",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're doing this all... FOR A MONKEY?!\\nWHY?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nclownso",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "idk, it just sounds fun, I want an orangutan"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nclownsococky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm gonna name him Juan :)"
+		},
+		{
+			"speed": 0.5,
+			"portrait": "urmomomegalul",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		}
+	]
+}

@@ -1,0 +1,228 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Clownso, I'm back!",
+			"boxState": "normal",
+			"portrait": "quinzelhappy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "quinzelnervous",
+			"speed": 0.125,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Eh..? Uh, what did I miss?",
+			"boxState": "normal",
+			"portrait": "quinzelnervous",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Quinzel, beloved, I thought you died!",
+			"boxState": "normal",
+			"portrait": "clownso",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "I said I was going shopping....",
+			"boxState": "normal",
+			"portrait": "quinzelnervous",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Are you scamming the carnival guests again?",
+			"boxState": "normal",
+			"portrait": "quinzelnervous",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Yes.",
+			"boxState": "normal",
+			"portrait": "chadso",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Sorry about him guys, he gets very.. uh-\\neccentric with people.",
+			"boxState": "normal",
+			"portrait": "quinzelnervous",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "I was trying not to be in eternal damnation in a void we know nothing about!",
+			"boxState": "normal",
+			"portrait": "clownsodrugs",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "You could've just said you wanted an\\norangutan!",
+			"boxState": "normal",
+			"portrait": "quinzelhappy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Well at least nothing bad happe-",
+			"boxState": "normal",
+			"portrait": "quinzelhappy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "FREEZE, FBI! GET ON THE GROUND NOW!",
+			"boxState": "normal",
+			"portrait": "fbi1",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Clownso, you are hereby under arrest for the crimes of tax fraud and your 89 other offenses.",
+			"boxState": "normal",
+			"portrait": "fbi2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Ahhh, fuck-",
+			"boxState": "normal",
+			"portrait": "clownsooverdose",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Here we go again...",
+			"boxState": "normal",
+			"portrait": "quinzelnervous",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Don't worry Quincy! I've been meaning to beat my jail escape speedrun any%",
+			"boxState": "normal",
+			"portrait": "clownso",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Good luck! I'm sure you can get under 8 hours this time.",
+			"boxState": "normal",
+			"portrait": "quinzelhappy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "So, I might be going to jail- but I gotta say kid, you did some good music.",
+			"boxState": "normal",
+			"portrait": "clownso",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Beep?",
+			"boxState": "normal",
+			"portrait": "bfclown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "It only took what? 2 mods to make the music good KYAHAHAHAHA!",
+			"boxState": "normal",
+			"portrait": "clownsodrugs",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "SEE YOU IN THE NEXT UPDATE YOU\\nTROGLODYTE!",
+			"boxState": "normal",
+			"portrait": "clownso",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "bfwhat",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Hey boyfriend, wanna ride the carousel?",
+			"boxState": "normal",
+			"portrait": "honkerssugma",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "BEEP!!!",
+			"boxState": "normal",
+			"portrait": "bfclown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, that old thing? It doesn't even work anymore.",
+			"boxState": "normal",
+			"portrait": "quinzelnervous",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "In fact, I don't think it ever worked...",
+			"boxState": "normal",
+			"portrait": "quinzelnervous",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "bfwhat",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "BEEEEEEEEEEEEEEEEEEEEEEEEP!!!!!!",
+			"boxState": "normal",
+			"portrait": "bfmentalbreakdown",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

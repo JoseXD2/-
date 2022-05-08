@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glitchbg.png"><SubTexture name="glitchbg0000" x="0" y="0" width="3150" height="2200" frameX="0" frameY="0" frameWidth="3150" frameHeight="2200" />
+<SubTexture name="glitchbg0001" x="3150" y="0" width="3150" height="2200" frameX="0" frameY="0" frameWidth="3150" frameHeight="2200" />
+<SubTexture name="glitchbg0002" x="3150" y="0" width="3150" height="2200" frameX="0" frameY="0" frameWidth="3150" frameHeight="2200" />
+<SubTexture name="glitchbg0003" x="0" y="2200" width="3150" height="2200" frameX="0" frameY="0" frameWidth="3150" frameHeight="2200" />
+<SubTexture name="glitchbg0004" x="3150" y="2200" width="3150" height="2200" frameX="0" frameY="0" frameWidth="3150" frameHeight="2200" />
+</TextureAtlas>
